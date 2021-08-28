@@ -7,6 +7,6 @@ I am Dafin
 
 This is my OS212 course repository
 
-My github account: [dafin678](https://github.com/dafin678?tab=repositories).
+My github account: [dafin678](https://github.com/dafin678).
 
 
