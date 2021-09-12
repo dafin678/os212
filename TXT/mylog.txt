@@ -18,6 +18,9 @@ ZCZC W01 30 L15 Assignment #05: SSH Keys and Git Cloning
 ZCZC W01 30 L16 Assignment #06: Dress Up Your GitHub Page
 ZCZC W01 10 L17 Assignment #07: Update mylog.txt
 ZCZC W01 9  L32 YouTube: study (Vim Basics in 8 Minutes)
+ZCZC W01 25 L13 Assignment #03
+ZCZC W01 30 L18 Assignment #08
+ZCZC W01 30 L19 Assignment #09
 
 
 
