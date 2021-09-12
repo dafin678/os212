@@ -11,10 +11,11 @@ ZCZC W00 10 L12 Assignment #02
 ZCZC W00 15 L32 YouTube: study, etc
 ZCZC W00 120 L02 ZOOM meetings related
 ZCZC W00 25 L15 Assignment #05
-ZCZC W01 45 L11 Assignment #01
-ZCZC W01 60 L12 Assignment #02
-ZCZC W01 45 L14 Assignment #04
-ZCZC W01 15 L15 Assignment #05
+ZCZC W01 45 L11 Assignment #01: VirtualBox Guest Preparation
+ZCZC W01 60 L12 Assignment #02: Installing ISO
+ZCZC W01 45 L14 Assignment #04: Dress Up Your Virtual Guest
+ZCZC W01 15 L15 Assignment #05: SSH Keys and Git Cloning
+
 
 
 
