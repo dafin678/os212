@@ -5,4 +5,4 @@
 ---
 
 #### Hello!
-My name is Muhammad Dhafin Fauzan and my nickname is dafin
+My name is Muhammad Dhafin Fauzan and my nickname is Dafin
