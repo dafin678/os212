@@ -28,7 +28,7 @@ ZCZC W02 30 L09 Writing a simple myscript.sh
 ZCZC W02 20 L27 Generating a GnuPG key pair
 ZCZC W02 20 L32 Watching about Cyber Security (Unfinished)
 ZCZC W02 20 L32 Learning C-language on YouTube (Unfinished)
-
+ZCZC W02 15 L09 Updating mylog
 
 
 
