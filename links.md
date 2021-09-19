@@ -5,7 +5,7 @@ permalink: /LINKS/
 # LINKS
 
 ### Week 0
-1.[What is an operating system ?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)<br>
+1. [What is an operating system ?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)<br>
 Could be saw as a knowledge about Operating Systems
 
 ### Week 1
