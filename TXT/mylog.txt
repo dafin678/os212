@@ -21,7 +21,7 @@ ZCZC W01 9  L32 YouTube: study (Vim Basics in 8 Minutes)
 ZCZC W01 25 L13 Assignment #03
 ZCZC W01 30 L18 Assignment #08
 ZCZC W01 30 L19 Assignment #09
-ZCZC W02 30 L09 Creating mypubkey.txt
+ZCZC W02 30 L09 Creating and exporting mypubkey.txt
 ZCZC W02 30 L28 Re-fixing mySSH keys
 ZCZC W02 20 L09 Creating myrank.txt and review peer link
 ZCZC W02 30 L09 Writing a simple myscript.sh
