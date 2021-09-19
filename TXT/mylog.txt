@@ -26,6 +26,9 @@ ZCZC W02 30 L28 Re-fixing mySSH keys
 ZCZC W02 20 L09 Creating myrank.txt and review peer link
 ZCZC W02 30 L09 Writing a simple myscript.sh
 ZCZC W02 20 L27 Generating a GnuPG key pair
+ZCZC W02 20 L32 Watching about Cyber Security (Unfinished)
+ZCZC W02 20 L32 Learning C-language on YouTube (Unfinished)
+
 
 
 
