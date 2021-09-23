@@ -29,6 +29,15 @@ ZCZC W02 20 L27 Generating a GnuPG key pair
 ZCZC W02 20 L32 Watching about Cyber Security (Unfinished)
 ZCZC W02 20 L32 Learning C-language on YouTube (Unfinished)
 ZCZC W02 15 L09 Updating mylog
+ZCZC W03 30 L07 Trying demos
+ZCZC W03 10 L09 Checking .bash_aliases
+ZCZC W03 10 L31 Creating an extra virtual disk
+ZCZC W03 7  L09 Finding my new disk
+ZCZC W03 7  L09 Formating my new disk
+ZCZC W03 7  L09 Mounting my new disk
+ZCZC W03 7  L09 Changing owner of my new disk from ROOT to dafin678 
+ZCZC W03 10 L09 Testing my new disk
+ZCZC W03 15 L09 Revising myscript.sh
 
 
 
