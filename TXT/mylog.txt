@@ -22,13 +22,13 @@ ZCZC W01 25 L13 Assignment #03
 ZCZC W01 30 L18 Assignment #08
 ZCZC W01 30 L19 Assignment #09
 ZCZC W02 30 L09 Creating and exporting mypubkey.txt
-ZCZC W02 30 L28 Re-fixing mySSH keys
+ZCZC W02 30 L28 Re-fixing my SSH keys
 ZCZC W02 20 L09 Creating myrank.txt and reviewing peer link
 ZCZC W02 30 L09 Writing a simple myscript.sh
 ZCZC W02 20 L27 Generating a GnuPG key pair
 ZCZC W02 20 L32 Watching about Cyber Security (Unfinished)
 ZCZC W02 20 L32 Learning C-language on YouTube (Unfinished)
-ZCZC W02 15 L09 Updating mylog
+ZCZC W02 15 L09 Updating my log
 ZCZC W03 30 L07 Trying demos
 ZCZC W03 10 L09 Checking .bash_aliases
 ZCZC W03 10 L31 Creating an extra virtual disk
@@ -38,6 +38,8 @@ ZCZC W03 7  L09 Mounting my new disk
 ZCZC W03 7  L09 Changing owner of my new disk from ROOT to dafin678 
 ZCZC W03 10 L09 Testing my new disk
 ZCZC W03 15 L09 Revising myscript.sh
+ZCZC W03 10 L09 Reviewing peer link
+ZCZC W03 10 L09 Updating my link
 
 
 
