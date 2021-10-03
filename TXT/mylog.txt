@@ -43,7 +43,10 @@ ZCZC W03 10 L09 Updating my link
 ZCZC W04 15 L09 Install Package List 2 (TLPI)
 ZCZC W04 30 L09 Fetch and Extract File “WEEK04.tar.bz2.asc”
 ZCZC W04 15 L09 Updating my link
-
+ZCZC W04 10 L09 Reviewing peer link
+ZCZC W04 15 L07 Trying demos
+ZCZC W04 10 L09 Reading MidTem Problems
+ZCZC W04 10 L09 Updating my log
 
 
 
