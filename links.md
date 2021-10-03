@@ -19,3 +19,7 @@ Could be saw as a knowledge about how to use GPG in Linux terminal
 ### Week 3
 1. [Recognizing (FHS) Filesystem Hierarchy Standard](https://tukangngipi.wordpress.com/2017/07/31/mengenal-fhs-filesystem-hierachy-standard/)<br>
 A little summary about (FHS) Filesystem Hierarchy Standard
+
+### Week 4
+1. [Little endian vs Big endian](https://levelup.gitconnected.com/little-endian-vs-big-endian-eb2a2c3a9135)<br>
+Review again about differences between little-endian and big-endian
