@@ -23,3 +23,7 @@ A little summary about (FHS) Filesystem Hierarchy Standard
 ### Week 4
 1. [Little endian vs Big endian](https://levelup.gitconnected.com/little-endian-vs-big-endian-eb2a2c3a9135)<br>
 Review again about differences between little-endian and big-endian
+
+### Week 5
+1. [Memory Hierarchy: Caches, Virtual Memory](https://class.ece.uw.edu/469/hauck/lectures/07_Caches.pdf)<br>
+Explaining about Memory Hierarchy and etc.
