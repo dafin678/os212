@@ -57,6 +57,7 @@ ZCZC W05 15 L17 Reviewing peer link
 ZCZC W05 20 L15 Updating my link
 ZCZC W05 10 L19 Submitting my week 05 assignment
 ZCZC W05 10 L01 Replying the forum about mean of "Qapla"
+ZCZC W05 30 L32 Learning about page replacement FIFO LRU OPTIMAL
 
 
 
