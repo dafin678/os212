@@ -47,7 +47,11 @@ ZCZC W04 10 L09 Reviewing peer link
 ZCZC W04 15 L07 Trying demos
 ZCZC W04 10 L09 Reading MidTem Problems
 ZCZC W04 10 L09 Updating my log
-
+ZCZC W05 10 L09 Trying to low my virtual guest memory and crashed at least 100 MB
+ZCZC W05 15 L09 Fetch and Extract File “WEEK05.tar.bz2.asc”
+ZCZC W05 45 L14 Modifying mymemory2.c
+ZCZC W05 15 L14 Running script and copying the result 
+ZCZC W05 10 L09 Updating my log
 
 
 
