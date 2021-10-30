@@ -27,3 +27,7 @@ Review again about differences between little-endian and big-endian
 ### Week 5
 1. [Memory Hierarchy: Caches, Virtual Memory](https://class.ece.uw.edu/469/hauck/lectures/07_Caches.pdf)<br>
 Explaining about Memory Hierarchy and etc.
+
+### Week 6
+1. [Memory mapping](https://linux-kernel-labs.github.io/refs/heads/master/labs/memory_mapping.html)<br>
+Explaining structures related to memory management
