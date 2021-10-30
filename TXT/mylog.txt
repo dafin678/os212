@@ -61,7 +61,7 @@ ZCZC W05 30 L32 Learning about page replacement FIFO LRU OPTIMAL
 ZCZC W06 30 L14 Finishing Assignment #04
 ZCZC W06 10 L15 Updating my link
 ZCZC W06 10 L18 Updating my log
-ZCZC W06 10 L19 Submitting my week 05 assignment
+ZCZC W06 10 L19 Submitting my week 06 assignment
 
 
 
