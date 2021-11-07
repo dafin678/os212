@@ -64,7 +64,10 @@ ZCZC W06 10 L18 Updating my log
 ZCZC W06 10 L19 Submitting my week 06 assignment
 ZCZC W06 15 L17 Reviewing peer link
 ZCZC W06 40 L80 Asynchronous class : Watching the youtube videos given by Mr. Anwar (Unfinished)
-
+ZCZC W07 80 L02 Synchronous class with Mr. Anwar
+ZCZC W07 40 L14 Finishing Assignment #04
+ZCZC W07 60 L01 Learning W07 study materials that given by Mr. Anwar
+ZCZC W07 10 L19 Submitting my week 06 assignment
 
 
 
