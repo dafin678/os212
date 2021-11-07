@@ -31,3 +31,10 @@ Explaining about Memory Hierarchy and etc.
 ### Week 6
 1. [Memory mapping](https://linux-kernel-labs.github.io/refs/heads/master/labs/memory_mapping.html)<br>
 Explaining structures related to memory management
+
+### Week 7
+1. [Process Synchronization](https://youtu.be/ph2awKa8r5Y)<br>
+Explaining Process Synchronization
+2. [Shared Memory Systems](https://youtu.be/uHtzOFwgD74)<br>
+Explaining Shared Memory Systems
+
