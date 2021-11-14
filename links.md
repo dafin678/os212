@@ -38,9 +38,6 @@ Explaining Process Synchronization
 2. [Shared Memory Systems](https://youtu.be/uHtzOFwgD74)<br>
 Explaining Shared Memory Systems
 
-<<<<<<< HEAD
 ### Week 8
 1. [Multilevel Queue Scheduling Algorithm](https://youtu.be/fvkSXMZaBNY)<br>
 Explaining about Multilevel Queue Scheduling Algorithm
-=======
->>>>>>> c544a54a1aa56308d35cff3124a4fb4d131e0206
