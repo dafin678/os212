@@ -17,6 +17,9 @@ ZCZC W06 indiradr
 ZCZC W07 johanesrakatn
 ZCZC W07 Kevinrazaqa
 ZCZC W07 johaneschristian
+<<<<<<< HEAD
 ZCZC W08 mbaauy
 ZCZC W08 Meta502
 ZCZC W08 matthewparluhutan
+=======
+>>>>>>> c544a54a1aa56308d35cff3124a4fb4d131e0206
