@@ -72,7 +72,6 @@ ZCZC W07 20 L15 Updating my link
 ZCZC W07 20 L18 Updating my log
 ZCZC W07 20 L17 Reviewing peer link
 ZCZC W07 15 L32 YouTube: study, etc
-<<<<<<< HEAD
 ZCZC W08 180 L14 Finishing Assignment #04
 ZCZC W08 60 L15 Finishing Assignment #05
 ZCZC W08 60 L80 Asynchronous class : Watching the youtube videos given by Mr. Anwar (Unfinished)
@@ -80,8 +79,6 @@ ZCZC W08 10 L18 Updating my log
 ZCZC W08 15 L15 Updating my link
 ZCZC W08 20 L17 Reviewing peer link
 ZCZC W08 10 L19 Submitting my week 08 assignment
-=======
->>>>>>> c544a54a1aa56308d35cff3124a4fb4d131e0206
 
 
 
