@@ -40,13 +40,8 @@ Explaining Shared Memory Systems
 
 ### Week 8
 1. [Multilevel Queue Scheduling Algorithm](https://youtu.be/fvkSXMZaBNY)<br>
-<<<<<<< HEAD
 Explaining about Multilevel Queue Scheduling Algorihm
 
 ### Week 9
 1. [Firmware vs Operating System](https://youtu.be/P9eA3xWzOO4)<br>
 Difference between Firmware vs Operating System
-
-=======
-Explaining about Multilevel Queue Scheduling Algorithm
->>>>>>> b98f379b422221c5f6e3c7f3171a4684382f213f
