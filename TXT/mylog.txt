@@ -79,6 +79,10 @@ ZCZC W08 10 L18 Updating my log
 ZCZC W08 15 L15 Updating my link
 ZCZC W08 20 L17 Reviewing peer link
 ZCZC W08 10 L19 Submitting my week 08 assignment
-
+ZCZC W09 100 L14 Finishing Assignment #04
+ZCZC W09 10 L18 Updating my log
+ZCZC W09 15 L15 Updating my link
+ZCZC W09 20 L17 Reviewing peer link
+ZCZC W09 10 L19 Submitting my week 09 assignment
 
 
